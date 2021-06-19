@@ -6516,6 +6516,13 @@ button.close {
   margin-right: auto;
   margin-left: auto;
 }
+.center-block-img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10vh;
+  max-height: 80%;
+}
 .pull-right {
   float: right !important;
 }
